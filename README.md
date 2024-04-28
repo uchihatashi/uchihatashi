@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="119"/></p>
 
-
+<p align="center" >
 <a align="center" href="https://twitter.com/uchiha_tashi">
   <img align="center" alt="Tashi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,26 +11,24 @@
   <img align="center" alt="Tashi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a align="center" href="http://instagram.com/uchiha_tashi">
-  <img align="center" alt="Tashi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <img align="center" alt="Tashi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a align="center" href="https://www.facebook.com/trueninjatashi2/">
   <img align="center" alt="Tashi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a align="center" href="https://www.kaggle.com/uchihatashi">
   <img align="center" alt="Tashi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
 </a>
-
 <!-- <a href="https://www.youtube.com/channel/UCcljm_hFG4Uqa1XDGLCDReg">
   <img align="center" alt="Uchiha's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
+</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=uchihatashi&style=flat-square&color=blue" alt=""></p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" /></p>
 
+<h1 align="center">Hey there, I'm Tashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 👨‍💻 &nbsp;About Me :
-
 Welcome to my GitHub profile! I'm a passionate Senior Data Engineer and Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, passionate about using data to uncover valuable insights and solutions.
  
 - 🔭 Currently employed at Luminous as a Senior Data Engineer and Analyst.
@@ -53,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate Senior Data Engineer and Analyst 
 </p>
 
 
-### 🛠 &nbsp;Tools(Data World):
+### 🛠 &nbsp;Tools (Data World):
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="flask" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
@@ -85,11 +83,10 @@ Welcome to my GitHub profile! I'm a passionate Senior Data Engineer and Analyst 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="40" height="40"/>
 </p>
 
+---
+
 ### 🔥 &nbsp; My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uchihatashi&theme=dark)](https://git.io/streak-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchihatashi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
