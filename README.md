@@ -1,22 +1,22 @@
 <p align="center"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></p>
 
 
-<a href="https://twitter.com/uchiha_tashi">
+<a align="center" href="https://twitter.com/uchiha_tashi">
   <img align="center" alt="Tashi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/uchiha-tashi/">
+<a align="center" href="https://www.linkedin.com/in/uchiha-tashi/">
   <img align="center" alt="Tashi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/uchihatashi">
+<a align="center" href="https://github.com/uchihatashi">
   <img align="center" alt="Tashi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="http://instagram.com/uchiha_tashi">
+<a align="center" href="http://instagram.com/uchiha_tashi">
   <img align="center" alt="Tashi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/trueninjatashi2/">
+<a align="center" href="https://www.facebook.com/trueninjatashi2/">
   <img align="center" alt="Tashi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.kaggle.com/uchihatashi">
+<a align="center" href="https://www.kaggle.com/uchihatashi">
   <img align="center" alt="Tashi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
 </a>
 
