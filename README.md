@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Senior Data Engineer and Analyst 
 ---
 
 
-### 🖥️ &nbsp;Languages:
+## 🖥️ Languages:
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R Programming" width="40" height="40"/>
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate Senior Data Engineer and Analyst 
 </p>
 
 
-### 🛠 &nbsp;Tools (Data World):
+## 🛠 Tools (Data World):
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="flask" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm a passionate Senior Data Engineer and Analyst 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" alt="pypi" width="40" height="40"/>
 </p>
 
-### 🛠 &nbsp;Other Tools:
+## 🛠 Other Tools:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
